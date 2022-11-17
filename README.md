@@ -8,30 +8,31 @@ With this custom controls you can:
 - record new clips and session
 - turn metronome on/of
 - undo actions
+- duplicate clips
 
-New Shortcuts for APC 25 (Edited by Dmitry Lozinsky): 
+New Shortcuts for APC 25 (Edited by Niccolò Serafino): 
 Clip buttons:
-one press - 		Record Clip
-second press -		Play Clip
-double press -		Delete Clip
-Press on playing - 	Stop Clip
-Shift+StopAllClips+ClipBut - Delete Clip
-Shift+Select - 		Undo
-Shift+ClipStop -	Metronome on/off
-Rec -			Record Clip
-Shift+Rec -		Record Session
+one press  				Record/play Clip
+Press on playing  		Stop Clip
+shift + press 			Slect clip
+shift + double press 		Duplicate clip
+Shift + StopAllClips + press 	Delete Clip
 
-for controls used APC 25 keys (clipStop, Select), so if you need default functions of this buttons - you willbe upset.
-personally for me this setup is very good for live sessions
+Shift + Select  		Undo
+Shift + Play/Stop 	Metronome on/off
+Rec 				Record Clip
+Shift+Rec 			Record Session
+
 
 Installation:
 for install replace the files in folder "c:\ProgramData\Ableton\Live 10 Suite\Resources\MIDI Remote Scripts\APC_Key_25" by files from this repository
 for Ableton 11 target path is c:\ProgramData\Ableton\Live 11 Suite\Resources\MIDI Remote Scripts\APC_Key_25
 (Don't forget to save your original files)
 
-There are two versions of script:
+There are three versions of script:
 1. 3 rows for scenes, one row for solo and last one for mute buttons
 2. 5 rows for scenes without mute/solo buttons as well as in the original version from Akai
+3. Updated 5 rows by Niccolò Serafino, with bug fixed and duplicate clip function available. Tested only on Ableton 11.
 By default, the first version will work. If you need the second (5 scenes) - rename the file APC_Key_25.py from repository to new name like APC_Key_25_3row.py and then rename APC_Key_25_5rows.py to APC_Key_25.py
 
 Tested for Ableton 9 and 10.
