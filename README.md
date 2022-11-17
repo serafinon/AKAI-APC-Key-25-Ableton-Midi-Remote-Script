@@ -11,13 +11,17 @@ With this custom controls you can:
 - duplicate clips
 
 New Shortcuts for APC 25 (Edited by Niccolò Serafino): 
+
 Clip functions:
+
 - one press  				            Record/play Clip
 - Press on playing  		        Stop Clip
 - shift + press 			          Slect clip
 - shift + double press 		      Duplicate clip
 - Shift + StopAllClips + press 	Delete Clip
+
 Song functions:
+
 - Shift + Select  		          Undo
 - Shift + Play/Stop 	          Metronome on/off
 - Rec 				                  Record Clip
