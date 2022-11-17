@@ -251,7 +251,7 @@ class APC_Key_25(APC, OptimizedControlSurface):
          AddLayerMode(self._mixer, Layer(send_controls=parameter_knobs_matrix)),
          send_toggle_component])
         knob_modes.add_mode('device', AddLayerMode(self._device, Layer(parameter_controls=parameter_knobs_matrix)))
-        knob_modes.selected_mode = 'volume'
+        knob_modes.selected_mode = 'device'
         knob_modes.layer = Layer(volume_button=self._volume_button, pan_button=self._pan_button, send_button=self._send_button, device_button=self._device_button)
         return knob_modes
 
