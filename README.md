@@ -10,10 +10,12 @@ With this custom controls you can:
 - undo actions
 - duplicate clips
 
+Differences from <a href="https://github.com/lakoske/AKAI-APC-Key-25-Ableton-Midi-Remote-Script">Lakoske script</a> : 
+Updated 5 rows mode with bug fixed and duplicate clip function available. This works on Ableton 11.
+
 New Shortcuts for APC 25 (Edited by Niccolò Serafino): 
 
 Clip functions:
-
 | | |
 |------------------------------|------------------|
 | One press                    | Record/Play Clip |
@@ -22,9 +24,7 @@ Clip functions:
 | Shift + double press         | Duplicate clip   |
 | Shift + StopAllClips + press | Delete Clip      |
 
-
 Song functions:
-
 | | |
 |-------------------|------------------   |
 | Shift + Select    | Undo                |
@@ -33,19 +33,10 @@ Song functions:
 | Rec               | Rec Selected Clip         |
 
 
-Installation:
-for install replace the files in folder "c:\ProgramData\Ableton\Live 10 Suite\Resources\MIDI Remote Scripts\APC_Key_25" by files from this repository
-for Ableton 11 target path is c:\ProgramData\Ableton\Live 11 Suite\Resources\MIDI Remote Scripts\APC_Key_25
+Installation on Ableton 11:
+Replace the files in folder "c:\ProgramData\Ableton\Live 11 Suite\Resources\MIDI Remote Scripts\APC_Key_25" with the files from this repository
 (Don't forget to save your original files)
 
-There are three versions of script:
-1. 3 rows for scenes, one row for solo and last one for mute buttons
-2. 5 rows for scenes without mute/solo buttons as well as in the original version from Akai
-3. Updated 5 rows by Niccolò Serafino, with bug fixed and duplicate clip function available. Tested only on Ableton 11.
-By default, the first version will work. If you need the second (5 scenes) - rename the file APC_Key_25.py from repository to new name like APC_Key_25_3row.py and then rename APC_Key_25_5rows.py to APC_Key_25.py
 
-Tested for Ableton 9 and 10.
-
-Version for Ableton 11 is available. 
 
 
