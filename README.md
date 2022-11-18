@@ -2,6 +2,7 @@
 Ableton MIDI remote script for custom shortcuts in AKAI APC Key 25
 
 This script provides custom controls for AKAI APC Keys 25 in Ableton DAW
+
 With this custom controls you can:
 - stop playing clips
 - delete clips
@@ -11,7 +12,9 @@ With this custom controls you can:
 - duplicate clips
 
 Differences from <a href="https://github.com/lakoske/AKAI-APC-Key-25-Ableton-Midi-Remote-Script">Lakoske script</a> : 
+
 Updated 5 rows mode with bug fixed and duplicate clip function available. This works on Ableton 11.
+
 
 New Shortcuts for APC 25 (Edited by Niccolò Serafino): 
 
