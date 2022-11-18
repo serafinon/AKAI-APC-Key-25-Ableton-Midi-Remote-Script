@@ -14,18 +14,21 @@ New Shortcuts for APC 25 (Edited by Niccolò Serafino):
 
 Clip functions:
 
-- one press  				            Record/play Clip
-- Press on playing  		        Stop Clip
-- shift + press 			          Slect clip
-- shift + double press 		      Duplicate clip
-- Shift + StopAllClips + press 	Delete Clip
+| One press                    | Record/Play Clip |
+|------------------------------|------------------|
+| One press while playing      | Stop Clip        |
+| Shift + press                | Select clip      |
+| Shift + double press         | Duplicate clip   |
+| Shift + StopAllClips + press | Delete Clip      |
+
 
 Song functions:
 
-- Shift + Select  		          Undo
-- Shift + Play/Stop 	          Metronome on/off
-- Rec 				                  Record Clip
-- Shift+Rec 			              Record Session
+| Shift + Select    | Undo                |
+|-------------------|------------------   |
+| Shift + Play/Stop | Metronome on/off    |
+| Shift + Rec       | Record Session        |
+| Rec               | Rec Selected Clip         |
 
 
 Installation:
